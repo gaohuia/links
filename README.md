@@ -8,4 +8,4 @@ links
 
 ### Interesting Sites
 
-* [Preloaders](https://icons8.com/preloaders/)
+* [Preloaders For Git generation](https://icons8.com/preloaders/)
