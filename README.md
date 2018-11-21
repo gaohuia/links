@@ -15,7 +15,7 @@ links
 
 ### Close the connection and run in background.###
 
-It tells the client to close the connection.
+It tells the client to close the connection. It works fine on httpd && chrome.
 
 ```php
 
