@@ -15,6 +15,8 @@ links
 
 **Close the connection and run in background.**
 
+It tells the client to close the connection.
+
 ```php
 
 ob_start();
